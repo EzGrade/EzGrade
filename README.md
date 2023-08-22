@@ -51,4 +51,5 @@ My main site for solving problems is [LeetCode](leetcode.com), here I spend most
 If you are interested in working with me, please, contact me in telegram
 
 ## Credits
-### [Telegram link](https://t.me/justgrade)
+### Telegram username
+__@JustGrade__
