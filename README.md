@@ -55,7 +55,8 @@ My primary platforms for solving problems are [LeetCode](https://leetcode.com), 
 # Current Goals
 ## Done my pet project
 Currently my pet project is website which allows you create notes and interact with them.
-Project stack:
+
+### Project stack:
 - Python 
     - Django
     - DRF
