@@ -51,7 +51,17 @@ My primary platforms for solving problems are [LeetCode](https://leetcode.com), 
    - 5-6 kyu: 24
    - 4 kyu: 2
    - Profile Link: [CodeWars Profile](https://www.codewars.com/users/EzGrade/completed)
- 
+
+# Current Goals
+## Done my pet project
+Currently my pet project is website which allows you create notes and interact with them.
+Project stack:
+- Python 
+    - Django
+    - DRF
+    - PostgreSQL 
+    - HTML + CSS, Java Script
+
 # Contact Me
 If you are interested in working with me, please feel free to contact me on Telegram.
 
