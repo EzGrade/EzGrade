@@ -63,6 +63,9 @@ Currently my pet project is website which allows you create notes and interact w
     - PostgreSQL 
     - HTML + CSS, Java Script
 
+## Improve frontend skills
+I want to learn how to properly make websites not only on backend but also on frontend. Currently learning Java Script. In future want to learn some frontend framework.
+
 # Contact Me
 If you are interested in working with me, please feel free to contact me on Telegram.
 
