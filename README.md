@@ -2,30 +2,35 @@
 Thank you for visiting my profile; it means a lot to me. Here, I will share some information about myself as a person and as a developer.
 
 ## About Me
-I'm a 17-year-old Python developer from Ukraine. I have been learning Python for almost 3 years and am also working on learning C++. 
+I'm a 18-year-old Python developer from Ukraine. I have been learning Python for almost 3 years and am also working on learning C++. 
 
 ## About Me as a Programmer
-I am proficient in the basics of Python and C++. Currently, I am enhancing my understanding of Object-Oriented Programming (OOP). I'm moving towards backend development and am currently learning FastAPI. I am also working on the backend of a large website, which involves:
+I am proficient in the basics of Python and C++. Currently, I am enhancing my understanding of Object-Oriented Programming (OOP). I'm moving towards backend development. Currently improving acknowledgements about Django and DRF. Also, I already got some experience working on the backend of a large website, which involves:
 - Refactoring a GitHub script (Amazon Flex offers parser); I have rewritten more than half of it.
 - Developing a bot that handles commands from Telegram and interacts with the website using web sockets.
 - Implementing numerous async functions.
 
-I have already created more than 10 Telegram bots, ranging from simple to complex. I have successfully sold 2 of them, both of which work perfectly.
+I have already created more than 10 Telegram bots, ranging from simple to complex. I have successfully sold 2 of them, both of which work perfectly and did huge impact on customers business.
 
 ## My Stack
 - Python
-   - __Aiogram__
-   - __Asyncio__
-   - __FastAPI__
-   - Numpy
-   - Sqlite3
-   - PIL
-   - OpenCV
-   - and other smaller libraries
-   - __Planning to Learn__
+   - __Web Development__
+       - Aiogram
+       - Django
        - DRF (Django Rest Framework)
+       - FastAPI
+   - __Data Bases__
+       - SqLite3
+       - PostgreSQL
+       - MongoDB
+   - __Other staff__
+       - Numpy
+       - PIL
+       - OpenCV
+       
 - C++
-   - I am currently in the early stages of learning C++, so my knowledge is limited.
+   - Basic Syntax
+
 - Languages
    - Ukrainian: Fluent (Mother tongue)
    - ~~Russian: Fluent~~
