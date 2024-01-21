@@ -40,8 +40,8 @@ I have already created more than 10 Telegram bots, ranging from simple to comple
 My primary platforms for solving problems are [LeetCode](https://leetcode.com), where I spend most of my time and other sites like [CodeWars](https://www.codewars.com) and [CodeForces](https://codeforces.com/).
 
 - __LeetCode Solved__
-   - Easy: 68 
-   - Medium: 25
+   - Easy: 102 
+   - Medium: 33
    - Hard: 0
    - Profile Link: [LeetCode Profile](https://leetcode.com/JustGrade/)
 
@@ -54,17 +54,14 @@ My primary platforms for solving problems are [LeetCode](https://leetcode.com), 
 
 # Current Goals
 ## Done my pet project
-Currently my pet project is website which allows you create notes and interact with them.
+Currently my pet project is autoposting telegram bot. It already has a lot of features, but I want to extend this list
 
 ### Project stack:
-- Python 
+- Python
+    - Aiogram
+    - Asyncio
     - Django
-    - DRF
     - PostgreSQL 
-    - HTML + CSS, Java Script
-
-## Improve frontend skills
-I want to learn how to properly make websites not only on backend but also on frontend. Currently learning Java Script. In future want to learn some frontend framework.
 
 # Contact Me
 If you are interested in working with me, please feel free to contact me on Telegram.
