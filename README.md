@@ -3,7 +3,6 @@
 <hr>
 
 <h2>Thanks for visiting my profile</h2>
-[![](https://visitcount.itsvg.in/api?id=EzGrade&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/ Ko-fi.com/ezgrade "> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt=" Ko-fi.com/ezgrade " /></a></p><br><br>
