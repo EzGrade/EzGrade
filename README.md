@@ -1,71 +1,24 @@
-# Welcome to My About Me
-Thank you for visiting my profile; it means a lot to me. Here, I will share some information about myself as a person and as a developer.
+<h1 align="center">Hi 👋, I'm EzGrade</h1>
+<h3 align="center">Backend developer</h3>
 
-## About Me
-I'm a 18-year-old Python developer from Ukraine. I have been learning Python for almost 3 years and am also working on learning C++. 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ezgrade&label=Profile%20views&color=0e75b6&style=flat" alt="ezgrade" /> </p>
 
-## About Me as a Programmer
-I am proficient in the basics of Python and C++. Currently, I am enhancing my understanding of Object-Oriented Programming (OOP). I'm moving towards backend development. Currently improving acknowledgements about Django and DRF. Also, I already got some experience working on the backend of a large website, which involves:
-- Refactoring a GitHub script (Amazon Flex offers parser); I have rewritten more than half of it.
-- Developing a bot that handles commands from Telegram and interacts with the website using web sockets.
-- Implementing numerous async functions.
+- 📫 How to reach me **Telegram: @JustGrade**
 
-I have already created more than 10 Telegram bots, ranging from simple to complex. I have successfully sold 2 of them, both of which work perfectly and did huge impact on customers business.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.leetcode.com/justgrade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="justgrade" height="30" width="40" /></a>
+</p>
 
-## My Stack
-- Python
-   - __Web Development__
-       - Aiogram
-       - Django
-       - DRF (Django Rest Framework)
-       - FastAPI
-   - __Data Bases__
-       - SqLite3
-       - PostgreSQL
-       - MongoDB
-   - __Other staff__
-       - Numpy
-       - PIL
-       - OpenCV
-       
-- C++
-   - Basic Syntax
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-- Languages
-   - Ukrainian: Fluent (Mother tongue)
-   - ~~Russian: Fluent~~
-   - English: B2 (Upper Intermediate)
- 
-## Problem Solving
-My primary platforms for solving problems are [LeetCode](https://leetcode.com), where I spend most of my time and other sites like [CodeWars](https://www.codewars.com) and [CodeForces](https://codeforces.com/).
+<h3 align="left">Support:</h3>
+<p><a href="https://ko-fi.com/ Ko-fi.com/ezgrade "> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt=" Ko-fi.com/ezgrade " /></a></p><br><br>
 
-- __LeetCode Solved__
-   - Easy: 102 
-   - Medium: 33
-   - Hard: 0
-   - Profile Link: [LeetCode Profile](https://leetcode.com/JustGrade/)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ezgrade&show_icons=true&locale=en&layout=compact" alt="ezgrade" /></p>
 
-- __CodeWars Solved__
-   - level kyu: 5
-   - 7-9 kyu: 17
-   - 5-6 kyu: 24
-   - 4 kyu: 2
-   - Profile Link: [CodeWars Profile](https://www.codewars.com/users/EzGrade/completed)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ezgrade&show_icons=true&locale=en" alt="ezgrade" /></p>
 
-# Current Goals
-## Done my pet project
-Currently my pet project is autoposting telegram bot. It already has a lot of features, but I want to extend this list
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ezgrade&" alt="ezgrade" /></p>
 
-### Project stack:
-- Python
-    - Aiogram
-    - Asyncio
-    - Django
-    - PostgreSQL 
-
-# Contact Me
-If you are interested in working with me, please feel free to contact me on Telegram.
-
-## Credits
-### Telegram Username
-__@JustGrade__
